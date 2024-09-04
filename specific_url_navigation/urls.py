@@ -24,3 +24,4 @@ urlpatterns = [
     path('food/',include('food.urls')),
     path('travelling/',include('travelling.urls')), 
 ]
+ 
